@@ -1,7 +1,7 @@
 # Olist-Ecommerce-Data-Analytics-Project
 End-to-End E-Commerce Data Analytics Project using SQL, Power BI, DAX, and Power Query. Analyzed 99K+ orders, 96K+ customers, 33K+ products, and 3K+ sellers through an interactive 6-page dashboard.
 # Olist E-Commerce Data Analytics Project
-
+[Power BI Dashboard File](https://drive.google.com/file/d/1aF2TLhqQdJoB4CwX7D2gD5sDPFV_dMdq/view?usp=drive_link)
 ## 📌 Project Overview
 This project analyzes the Olist Brazilian E-Commerce dataset using SQL and Power BI. The goal is to uncover business insights related to orders, customers, products, sellers, and revenue performance through an interactive dashboard.
 
